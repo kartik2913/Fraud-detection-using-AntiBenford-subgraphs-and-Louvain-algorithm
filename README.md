@@ -2,4 +2,4 @@ This is a basic implementation of AntiBenford subgraph framework along with louv
 
 Dataset used - https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml
 
-Main.ipynb contains the most if the functionality, and rest of the files are utilites.
+Main.ipynb contains most of the functionality, and rest of the files are utilites.
