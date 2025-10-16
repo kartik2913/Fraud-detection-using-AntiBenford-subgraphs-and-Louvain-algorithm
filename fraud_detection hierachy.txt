@@ -1,0 +1,18 @@
+fraud_detection/
+├── data/
+│   └── li_small_trans.csv
+├── src/
+│   ├── __init__.py
+│   ├── io_utils.py
+│   ├── preprocessing.py
+│   ├── anti_benford.py
+│   ├── graph_builder.py
+│   ├── community/
+│   │   ├── __init__.py
+│   │   ├── parallel_greedy.py        # Parallelize Greedy algorithm (plug-in)
+│   │   └── louvain.py               # Louvain implementation (plug-in)
+│   ├── evaluation.py
+│   └── run_pipeline.py
+├── experiments/
+│   └── config.yaml
+└── README.md

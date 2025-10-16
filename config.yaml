@@ -1,0 +1,8 @@
+data_path: "data/li_small_trans.csv"
+theta_ab: 0.25
+min_group_size: 10
+radius: 1
+n_workers: 8
+resolution: 1.0
+max_phase_iter: 500
+tol: 1e-5
